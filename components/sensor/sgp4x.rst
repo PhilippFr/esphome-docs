@@ -86,7 +86,7 @@ Example With Compensation
 
     # Example configuration entry
     sensor:
-    - platform: sgp4x
+      - platform: sgp4x
         voc:
           name: "VOC Index"
         nox:
